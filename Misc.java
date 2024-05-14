@@ -120,7 +120,7 @@ public class Misc {
      * Imprimi na tela do usuário o valor String definido em 'msg', e se caso houver
      * formatação, quaisquer variavéis devem ser inseridos em 'args'.
      * Uma cor pode ser definida escrevendo a cor desejada, mais informações sobre cores:
-     * https://github.com/estape/Hotel-Manager-Pro/wiki/ANSI-Code-List
+     * https://github.com/estape/Utilities-Java-Class
      * 
      * @param msg  Texto em String.
      * @param color Nome da cor, Ex: white
@@ -204,7 +204,7 @@ public class Misc {
     /**
      * Altera a cor dtexto do console de acordo com a definição na entrada
      * 'color', para mais informações acesse:
-     * https://github.com/estape/Hotel-Manager-Pro/wiki/ANSI-Code-List
+     * https://github.com/estape/Utilities-Java-Class
      * 
      * @param frontColor Nome da cor, Ex: white
      */
@@ -256,7 +256,7 @@ public class Misc {
     /**
      * Altera a cor de fundo do console de acordo com a definição na entrada
      * 'color', para mais informações acesse:
-     * https://github.com/estape/Hotel-Manager-Pro/wiki/ANSI-Code-List
+     * https://github.com/estape/Utilities-Java-Class
      * 
      * @param backColor Nome da cor, Ex: white
      */
@@ -308,7 +308,7 @@ public class Misc {
     /**
      * Altera a cor de fundo do console de acordo com a definição na entrada
      * 'color', para mais informações acesse:
-     * https://github.com/estape/Hotel-Manager-Pro/wiki/ANSI-Code-List
+     * https://github.com/estape/Utilities-Java-Class
      * 
      * @param font Nome da fonte, Ex: bold
      * @param underline Se o texto será sublinhado ou não.
